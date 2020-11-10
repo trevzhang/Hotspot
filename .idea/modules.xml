@@ -27,7 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/test/compiler/criticalnatives/criticalnatives.iml" filepath="$PROJECT_DIR$/test/compiler/criticalnatives/criticalnatives.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/compiler/dependencies/dependencies.iml" filepath="$PROJECT_DIR$/test/compiler/dependencies/dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/gc_implementation/gc_implementation.iml" filepath="$PROJECT_DIR$/test/gc_implementation/gc_implementation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hotspot-jdk8u.iml" filepath="$PROJECT_DIR$/hotspot-jdk8u.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot.iml" filepath="$PROJECT_DIR$/hotspot.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/compiler/intrinsics/intrinsics.iml" filepath="$PROJECT_DIR$/test/compiler/intrinsics/intrinsics.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/runtime/jni/jni.iml" filepath="$PROJECT_DIR$/test/runtime/jni/jni.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/compiler/rtm/rtm.iml" filepath="$PROJECT_DIR$/test/compiler/rtm/rtm.iml" />
