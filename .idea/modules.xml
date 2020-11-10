@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/BatikSVGProxy/BatikSVGProxy.iml" filepath="$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/BatikSVGProxy/BatikSVGProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/Bytecodes/Bytecodes.iml" filepath="$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/Bytecodes/Bytecodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/ControlFlow/ControlFlow.iml" filepath="$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/ControlFlow/ControlFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/Coordinator/Coordinator.iml" filepath="$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/Coordinator/Coordinator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/Data/Data.iml" filepath="$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/Data/Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/Difference/Difference.iml" filepath="$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/Difference/Difference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/Filter/Filter.iml" filepath="$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/Filter/Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/FilterWindow/FilterWindow.iml" filepath="$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/FilterWindow/FilterWindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/Graph/Graph.iml" filepath="$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/Graph/Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/HierarchicalLayout/HierarchicalLayout.iml" filepath="$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/HierarchicalLayout/HierarchicalLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/Layout/Layout.iml" filepath="$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/Layout/Layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/LogCompilation/LogCompilation.iml" filepath="$PROJECT_DIR$/src/share/tools/LogCompilation/LogCompilation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/NetworkConnection/NetworkConnection.iml" filepath="$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/NetworkConnection/NetworkConnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/RhinoScriptEngineProxy/RhinoScriptEngineProxy.iml" filepath="$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/RhinoScriptEngineProxy/RhinoScriptEngineProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/ServerCompiler/ServerCompiler.iml" filepath="$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/ServerCompiler/ServerCompiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/Settings/Settings.iml" filepath="$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/Settings/Settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/Util/Util.iml" filepath="$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/Util/Util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/View/View.iml" filepath="$PROJECT_DIR$/src/share/tools/IdealGraphVisualizer/View/View.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agent/src/agent.iml" filepath="$PROJECT_DIR$/agent/src/agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/compiler/classUnloading/classUnloading.iml" filepath="$PROJECT_DIR$/test/compiler/classUnloading/classUnloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/compiler/compiler.iml" filepath="$PROJECT_DIR$/test/compiler/compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/runtime/containers/containers.iml" filepath="$PROJECT_DIR$/test/runtime/containers/containers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/compiler/criticalnatives/criticalnatives.iml" filepath="$PROJECT_DIR$/test/compiler/criticalnatives/criticalnatives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/compiler/dependencies/dependencies.iml" filepath="$PROJECT_DIR$/test/compiler/dependencies/dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/gc_implementation/gc_implementation.iml" filepath="$PROJECT_DIR$/test/gc_implementation/gc_implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotspot-jdk8u.iml" filepath="$PROJECT_DIR$/hotspot-jdk8u.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/compiler/intrinsics/intrinsics.iml" filepath="$PROJECT_DIR$/test/compiler/intrinsics/intrinsics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/runtime/jni/jni.iml" filepath="$PROJECT_DIR$/test/runtime/jni/jni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/compiler/rtm/rtm.iml" filepath="$PROJECT_DIR$/test/compiler/rtm/rtm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/runtime/runtime.iml" filepath="$PROJECT_DIR$/test/runtime/runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/stress/stress.iml" filepath="$PROJECT_DIR$/test/stress/stress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agent/test/test1.iml" filepath="$PROJECT_DIR$/agent/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/tools/tools.iml" filepath="$PROJECT_DIR$/src/share/tools/tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/share/vm/vm.iml" filepath="$PROJECT_DIR$/src/share/vm/vm.iml" />
+    </modules>
+  </component>
+</project>
